@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo } from 'react';
+import { useEffect, useMemo } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import type { AppDispatch, RootState } from '../app/store';
 import { loadPersonalities, selectPersonality } from '../features/personality/personalitySlice';

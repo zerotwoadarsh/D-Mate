@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Mic } from 'lucide-react';
 import {type Theme } from '../config/themes';
 
